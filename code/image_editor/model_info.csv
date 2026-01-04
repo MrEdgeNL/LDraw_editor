@@ -1,0 +1,60 @@
+filename;caption;nrofparts;extrainfo
+LEdifice_Models_Box_0_all.png;Examples box 0.;Content box 0: 97 parts.;
+LEdifice_Models_Box_1_all.png;Examples box 0.;Content box 1: 141 parts.;
+LEdifice_Models_Box_2_all.png;Examples box 0.;Content box 2: 252 parts.;
+LEdifice_Models_Box_2-13b.png;model 2-13 (front side);NrOfParts: 153;Plan P.
+LEdifice_Models_Box_2-13c.png;model 2-13 (back side);NrOfParts: 153;Plan P.
+LEdifice_Models_Box_3-4.png;model 3-4;NrOfParts: 162;Plan U.
+LEdifice_Models_Box_3-6.png;model 3-6;NrOfParts: 185;Plan U.
+LEdifice_Models_Box_3-10a.png;model 3-10 (front side);NrOfParts: 241;Plan Y.
+LEdifice_Models_Box_3-10b.png;model 3-10 (back side);NrOfParts: 241;Plan Y.
+LEdifice_Models_Box_3-14.png;model 3-14;NrOfParts: 168;Plan O.
+LEdifice_Models_Box_4-1.png;model 4-1;NrOfParts: 324;
+LEdifice_Models_Box_4-2.png;model 4-2: Entrée D'Abbaye;NrOfParts: 248;
+LEdifice_Models_Box_4-3_0plan.jpg;model 4-3: L'Église;NrOfParts: 386;Example, BOM & floorplan
+LEdifice_Models_Box_4-3_1921.png;model 4-3: L'Église\nPanel series 1921;NrOfParts: 386;
+LEdifice_Models_Box_4-3_1923.png;model 4-3: L'Église\nPanel series 1923;NrOfParts: 386;
+LEdifice_Models_Box_4-3_1925.png;model 4-3: L'Église\nPanel series 1925;NrOfParts: 386;
+LEdifice_Models_Box_4-3_1931.png;model 4-3: L'Église\nPanel series 1931;NrOfParts: 386;
+LEdifice_Models_Box_4-3_transparant.png;model 4-3: L'Église\nTransparant panel series;NrOfParts: 386;
+LEdifice_Models_Box_4-7.png;model 4-7: Petit Trianon;NrOfParts: 171;
+LEdifice_Models_Box_4-11.png;model 4-11: Église Ste-Clotilde;NrOfParts: 253;
+LEdifice_Models_Box_4-13_0plan.jpg;model 4-13: Hotel de Ville Flamand;NrOfParts: 381;Example, BOM & floorplan
+LEdifice_Models_Box_4-13_1front.png;model 4-13: Hotel de Ville Flamand\nFront view;NrOfParts: 381;
+LEdifice_Models_Box_4-13_2back.png;model 4-13: Hotel de Ville Flamand\nBack view;NrOfParts: 381;
+LEdifice_Models_Box_5-2.png;model 5-2: Petit Hotel;NrOfParts: 379;
+LEdifice_Models_Box_5-10.png;model 5-10: Chateau Louis XVI;NrOfParts: 373;
+LEdifice_Models_Box_6-1.png;model 6-1: Palais de Gouvernement;NrOfParts: 473;
+LEdifice_Models_Box_6-2.png;model 6-2: Petite mosquée;NrOfParts: 574;
+LEdifice_Models_Box_6-8.png;model 6-8: Grand Palais Louis XVI;NrOfParts: 586;
+LEdifice_Models_Box_6-12.png;model 6-12: Maison Strasbourgeoise;NrOfParts: 292;
+LEdifice_Models_Box_6-27.png;model 6-27: Castel sur L'Eau;NrOfParts: 457;
+LEdifice_Models_Specials_HS-02.png;model HS-02: Garage No. 1.;NrOfParts: 330;Boite spéciale.
+LEdifice_Models_Specials_HS-03.png;model HS-03: Garage No. 2.;NrOfParts: 596;Boite spéciale.
+LEdifice_Models_Specials_HS-04.png;model HS-04: Gare de Chemin de Fer;NrOfParts: 938;
+LEdifice_Models_Specials_HS-08.png;model HS-08: Monastère;NrOfParts: 644;
+LEdifice_Models_Specials_HS-10.png;model HS-10: Halle au Blé de Vitré;NrOfParts: 958;
+LEdifice_Models_Specials_HS-20.png;model HS-20: Le Fort;NrOfParts: 745;Boite spéciale.
+LEdifice_Models_Specials_HS-25b.png;model HS-25: Hotel de Vile Rhénan\n(front side);NrOfParts: 846;
+LEdifice_Models_Specials_HS-25c.png;model HS-25: Hotel de Vile Rhénan\n(back side);NrOfParts: 846;
+LEdifice_Models_Specials_HS-26_1923.png;model HS-26: La Cathédrale (1923);NrOfParts: 1188;Boite spéciale.
+LEdifice_Models_Specials_HS-26_1925.png;model HS-26: La Cathédrale (1925);NrOfParts: 1253;Boite spéciale.
+LEdifice_Models_Specials_HS-27.png;model HS-27: Chateau Fêodal;NrOfParts: 1278;
+LEdifice_Models_Specials_HS-29d.png;model HS-29: Chateau Renaissance \n(front side);NrOfParts: 1083;
+LEdifice_Models_Specials_HS-29e.png;model HS-29: Chateau Renaissance \n(back side);NrOfParts: 1083;
+LEdifice_Models_TR-01.png;model TR-01: Maison Louis XVI;NrOfParts: 224;
+LEdifice_Models_TR-02.png;model TR-02: Maison D'Ambroise Thomas;NrOfParts: 219;
+LEdifice_Models_TR-03.png;model TR-03: Chateau Renaissance;NrOfParts: 407;
+LEdifice_Models_TR-22.png;model TR-22: Chateau Fêodal;NrOfParts: 716;
+LEdifice_Models_TR-23a.png;model TR-23: Place D'Hotel de Ville;NrOfParts: 2440;
+LEdifice_Models_TR-23b.png;model TR-23: Place D'Hotel de Ville;;
+LEdifice_Models_TR-23c.png;model TR-23: Place D'Hotel de Ville;;
+LEdifice_Models_TR-23d.png;model TR-23: Place D'Hotel de Ville;;
+LEdifice_Models_TR-23e.png;model TR-23: Place D'Hotel de Ville;;
+LEdifice_Models_TR-23f.png;model TR-23: Place D'Hotel de Ville;;
+LEdifice_Models_TR_08 Manoir Renaissance.png;model TR-08: Manoir Renaissance;NrOfParts: 340;
+LEdifice_Models_Specials_HS-05.png;model HS-05: Gare Terminus;NrOfParts: 1223;Boite spéciale.
+LEdifice_Models_Box_6-13.png;model 6-13: Maison de Ville;NrOfParts: 815;
+Ledifice_Models_Specials_HS-19.png;model HS-19: Palais d'Aladin;NrOfParts: 1418;
+LEdifice_Models_Specials_HS-34.png;model HS-34: Pont de Valentré à Cahors;NrOfParts: 773;
+LEdifice_Models_TR-09.png;model TR-09: Castel d'Elven;NrOfParts: 434;
