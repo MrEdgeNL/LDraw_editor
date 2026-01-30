@@ -1,12 +1,15 @@
-# LDraw Model Library
-Convert source date (STL/PNG) into LDraw/LeoCAD library files.
-Load/Update/Save LDR/MPD files.
-Convert LeoCAD models to GLB.
-Convert source files to AI friendly input.
+# LDraw Editor
+
+3 components:
+1. Create LDraw/LeoCAD library, from source files (Stl/Png/Jpeg)
+2. Ldraw model editor (remove duplicates, import/export submodels etc)
+3. LDraw → GLB converter, using Trimesh.
+
+![LDraw editor](pics/LDraw_Model_Editor.jpg)
 
 _________________________________________________
-## Main library:
-Basicall a part list, including file locations & metadata.
+## Main LDraw database:
+Basicall a part list (csv), including file locations & metadata.
 
 ### Source files:
 .csv; STL; picture files.
@@ -33,7 +36,6 @@ Collection of parts, consisting:
 → Export database (.csv)
 → ExportLDrawFiles(destination_path)
 
-
 ### class MeshData:
 Reads STL files and able to export to:
 - LDraw, including optional planar textures.
@@ -43,12 +45,6 @@ Reads STL files and able to export to:
 → Orientate STL file (metadata)
 → Scale STL file
 → ExportMeshToLDraw(metadata)
-
-ToDo:
-- Add cylindrical textures
-- Copy org texture to destination_path
-- Optional: change picture into 72 DPI
-
 _________________________________________________
 ## LDraw Model Manager:
 Loads/saves LeoCAD LDR/MPD files.
@@ -61,27 +57,16 @@ Loads/saves LeoCAD LDR/MPD files.
 → Update (filenames, positions) (needs LibraryManager)
 → Export (LDR/MPD)
 → ExportSubModelsToLDR
-
+→ ExportFlattenedSubModel
 
 _________________________________________________
 ## GLB Exporter:
 Needs:
-- ModelManager: load LDraw model.
-- LibraryManager: load source parts.
+- Trimesh & numpy.
+- Path to LDraw parts libary.
+- LDConfig.ldr.
 
-### cls ExporterToGLB:
-→ LibraryManager.Import()
-→ ExportToGLB(file)
-  - Create new scene
-  - Add submodel?
-  - Add mesh (3D / material)
-
-_________________________________________________
-## AI Exporter:
-Needs:
-- LibraryManager: load source parts.
-
-### cls ExporterToAI:
-→ GeneratePartList
-→ Generate3Dmeshes
-→ GenerateTextures
+### cls LDRtoGLBConverter:
+→ Converter includes:
+  - convert_ldr_to_scene(model.ldr)
+  - add_three_point_lighting
